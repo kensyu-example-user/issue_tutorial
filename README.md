@@ -9,3 +9,4 @@ Issue 操作を練習しましょう
 - コメント追加
 - クリックによる close/reopen
 - コミットによる Issue の close:
+  - Issue #3 をclose します
